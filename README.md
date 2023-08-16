@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @4usaidivya
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently Doing my Master's in UCF
-- 📫 How to reach me - mail- 4u.saidivya@gmail.com
+- 👀 I’m a Software Developer
+- 🌱 I did my master's in Computer Science and graduated from UCF
+- 📫 How to reach me - Mail to - 4u.saidivya@gmail.com
 
 <!---
 4usaidivya/4usaidivya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
